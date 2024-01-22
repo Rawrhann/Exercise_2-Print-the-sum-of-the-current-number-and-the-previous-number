@@ -4,5 +4,5 @@
 number = 0
 for i in range(1, 10):
     print(number)
-    number = number + 2
+    number = number + i
     
